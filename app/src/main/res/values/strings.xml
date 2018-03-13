@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RxNotes</string>
+    <string name="Benchmarks">Tab1</string>
+    <string name="Weightlifts">Tab2</string>
+    <string name="Timers">TIMERS</string>
+    <string name="weighliftings">Weighliftings</string>
+    <string name="benchmarks">Benchmarks</string>
+</resources>
